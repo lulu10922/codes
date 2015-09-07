@@ -26,5 +26,6 @@ int maxSubArray(int* nums, int numsSize)
         if(cur<0)
             cur=0;
     }
+
     return max;
 }
