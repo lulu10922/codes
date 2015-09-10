@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1441877490 source:d:\ДњТы\inorder traversal\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+
